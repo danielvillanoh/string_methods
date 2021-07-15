@@ -55,7 +55,7 @@ print()
 
 text = input('I\'m asking you once again to enter a sentence: ')
 print(text[0])
-print(text[0:3])
+print(text[1], text[2], text[3])
 print(text[- 1])
 print()
 
